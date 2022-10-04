@@ -1,0 +1,14 @@
+.principal{
+    font-size: 3.125rem;
+}
+
+
+.descriptionPrincipal{
+    grid-column: 1/7;
+    place-self: center start;
+    height: 177px;
+    width: 487px;
+    left: 62px;
+    top: 174px;
+    font-style: normal;
+}

@@ -1,0 +1,30 @@
+.dadosGerais{
+    display: flex;
+    width: 400px;
+    justify-content: space-between;
+
+}
+
+.numero{
+    font-weight: 500;
+    font-style: normal;
+    font-size: 28px;
+    line-height: 141.69%;
+}
+
+.infos{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 141.69%;
+}
+
+.linha{
+    position: absolute;
+    padding-left: 150px;
+}
+
+.copyright{
+    display: flex;
+    justify-content: center;
+}

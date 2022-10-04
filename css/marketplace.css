@@ -1,0 +1,17 @@
+.marketplace{
+    font-size: 1.063rem;
+    font-weight: 700;
+    line-height: 20px;
+    transform: translateY(-100%);
+    font-style: normal;
+}
+
+.descriptionMarketplace{
+    grid-column: 1/7;
+    place-self: center start;
+    height: 48px;
+    width: 354px;
+    left: 62px;
+    top: 1000px;
+
+}

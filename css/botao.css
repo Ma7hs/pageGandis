@@ -1,0 +1,23 @@
+.btnPrimary{
+    background: #FC4754E8;
+    color: rgb(255, 255, 255);
+    height: 50px;
+    width: 136px;
+    font-family: var(--fonteProjeto);
+    font-size: 1rem;
+    text-shadow: none;
+    border-radius: 4px;
+
+}
+
+.btnSecondary{
+    background: #10061E;
+    color: rgb(255, 255, 255);
+    border-color:#FC47548C;
+    height: 50px;
+    width: 136px;
+    font-family: var(--fonteProjeto);
+    font-size: 1rem;
+    text-shadow: none;
+    border-radius: 4px;
+    }

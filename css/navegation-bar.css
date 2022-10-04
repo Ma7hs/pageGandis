@@ -1,0 +1,16 @@
+.navegation-bar{
+    font-style: normal;
+    font-family: var(--fonteProjeto);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 500px;
+
+
+}
+
+.active{
+    color: white;
+}
+

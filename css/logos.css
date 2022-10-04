@@ -1,0 +1,26 @@
+.logoValorant{
+    height: 50px;
+}
+
+.gandisInicio {
+    font-size: 23px;
+    font-weight: 700;
+    color: white;
+}
+
+
+.logoReyna{
+    position: absolute;
+    width: 299px;
+    height: 371px;
+    left: 1300px;
+    top: 300px;
+}
+
+.bordaLogoGeral{
+    display: flex;
+    z-index: -1;
+    position: absolute;
+}
+
+

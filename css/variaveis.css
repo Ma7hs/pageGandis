@@ -1,0 +1,9 @@
+:root{
+    --bordaBotoes: 4px;
+    --corBotao1: #FC4754;
+    --fonteProjeto:'Roboto', sans-serif;
+    --filtroBlur: 200px;
+    --blurColor: #FC4754;
+    --corPrincipalFundo: #10061E;
+    --corFonteProjeto: #ffffff;
+}

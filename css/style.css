@@ -1,0 +1,36 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+
+body{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    font-family: var(--fonteProjeto);
+    font-style: normal;
+    color: var(--corFonteProjeto);
+    background-color: var(--corPrincipalFundo);
+    padding-top: 63px;
+    padding-right: 64px;
+    padding-bottom: 71px;
+    padding-left: 62px;
+}
+
+header{
+    height: 40px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+main{
+    flex-grow: 1;
+    display: grid;
+    grid-template-columns: repeat(12, 1fr);
+}
+
