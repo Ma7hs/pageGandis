@@ -9,8 +9,8 @@
     backdrop-filter: blur(30px);
     border-radius: 5px;
     text-decoration: none;
-    top: 476px;
-    left: 555px;
+    transform: translate(400, -30);
+    position: absolute;
 }
 
 .currentBid {

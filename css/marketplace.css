@@ -7,7 +7,6 @@
 }
 
 .descriptionMarketplace{
-    grid-column: 1/7;
     place-self: center start;
     height: 48px;
     width: 354px;
