@@ -10,7 +10,6 @@
     border-radius: 5px;
     text-decoration: none;
     transform: translate(400, -30);
-    position: absolute;
 }
 
 .currentBid {
