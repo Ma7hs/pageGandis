@@ -1,9 +1,11 @@
 :root{
     --bordaBotoes: 4px;
-    --corBotao1: #FC4754;
+    --corBotao1: #FC4754E8;
     --fonteProjeto:'Roboto', sans-serif;
     --filtroBlur: 200px;
-    --blurColor: #FC4754;
+    --blurColor: #FC4754E8;
     --corPrincipalFundo: #10061E;
     --corFonteProjeto: #ffffff;
+    --btn-hover-vermelhos: rgba(233,35,45);
+    --btn-hover-transparente: rgba(52,40,103);
 }
