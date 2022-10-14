@@ -32,5 +32,6 @@ main{
     flex-grow: 1;
     display: grid;
     grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: 50px 400px 50px;
 }
 

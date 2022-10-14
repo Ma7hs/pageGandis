@@ -9,7 +9,10 @@
     backdrop-filter: blur(30px);
     border-radius: 5px;
     text-decoration: none;
-    transform: translate(400, -30);
+    margin-top: 400px;
+    margin-left: 600px;
+    grid-column: 2;
+    
 }
 
 .currentBid {
